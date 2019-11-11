@@ -1,2 +1,3 @@
-# lunarscents-weather
-Learning React Native by building a lunarscents Weather App
+# Lunarscents's Weather
+
+To pratice React Native by building a Lunarscents's Weather App
