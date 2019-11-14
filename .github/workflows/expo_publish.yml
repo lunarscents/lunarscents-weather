@@ -15,4 +15,4 @@ jobs:
       - uses: expo/expo-github-action@v4
         with:
           expo-version: 3.x
-      - run: npm start start
+      - run: npm run start
